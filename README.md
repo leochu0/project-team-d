@@ -1,3 +1,15 @@
-Sorry our group is yet to start working. Have patience...
+# Introduction
 
-Please refer to tasks.md
+    Our team now follow the tasks inside /issues, below is the check list of our work.
+
+- [x] Task 1 - Set up &nbsp; readme.md
+- [ ] Task 2 - Include data into readme
+- [ ] Task 3 - Project board
+- [ ] Task 4 - Write C code
+- [ ] Task 5 - Promote your repo
+
+# Code
+
+# Contributors
+
+{% include_relative _stu/1155119042.md %}

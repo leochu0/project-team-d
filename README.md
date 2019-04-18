@@ -10,6 +10,8 @@
 
 # Code
 
+{% include_relative code.c %}
+
 # Contributors
 
 {% include_relative _stu/1155119042.md %}  

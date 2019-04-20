@@ -12,7 +12,6 @@
 ```c
 {% include_relative code.c %}  
 ```
-{% include_relative code.c %}  
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-d.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-d)
 
 # Contributors

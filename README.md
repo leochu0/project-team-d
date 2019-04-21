@@ -3,8 +3,8 @@
     Our team now follow the tasks inside /issues, below is the check list of our work.
 
 - [x] Task 1 - Set up &nbsp; readme.md
-- [ ] Task 2 - Include data into readme
-- [ ] Task 3 - Project board
+- [X] Task 2 - Include data into readme
+- [X] Task 3 - Project board
 - [ ] Task 4 - Write C code
 - [ ] Task 5 - Promote your repo
 
@@ -20,6 +20,9 @@
 {% include_relative _stu/1155110761.md %}  
 {% include_relative _stu/1155110208.md %}  
 {% include_relative _stu/1155108651.md %}  
+{% include_relative _stu/1155107885.md %}  
+{% include_relative _stu/1155115789.md %}  
+{% include_relative _stu/1155104019.md %}  
 {% include_relative _stu/1155115792.md %}
 {% include_relative _stu/1155108651.md %}
 {% include_relative _stu/1155107885.md %}

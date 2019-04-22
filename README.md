@@ -2,10 +2,10 @@
 Hey, we are Team-D, and this is our blog.
 
 Our team now follow the tasks inside /issues, below is the check list of our work.
-- [x] Task 1 - Set up &nbsp; readme.md
-- [ ] Task 2 - Include data into readme
-- [ ] Task 3 - Project board
-- [ ] Task 4 - Write C code
+- [X] Task 1 - Set up &nbsp; readme.md
+- [X] Task 2 - Include data into readme
+- [X] Task 3 - Project board
+- [X] Task 4 - Write C code
 - [ ] Task 5 - Promote your repo
 
 # Code
@@ -22,4 +22,4 @@ Our team now follow the tasks inside /issues, below is the check list of our wor
 {% include_relative _stu/1155115789.md %}
 
 
-{{ site.time }}
+Last update: {{ site.time }}

@@ -30,7 +30,7 @@ Our team now follow the tasks inside /issues, below is the check list of our wor
 {% include_relative _stu/1155107885.md %}  
 {% include_relative _stu/1155115789.md %}  
 {% include_relative _stu/1155098386.md %}  
-{% include_realtive _stu/1155109788.md %}  
+{% include_relative _stu/1155109788.md %}  
 
 Last update: {{ site.time }}
 

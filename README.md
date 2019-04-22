@@ -18,22 +18,19 @@ Our team now follow the tasks inside /issues, below is the check list of our wor
 
 # Contributors
 
-{% include_relative _stu/1155119042.md %}  
+{% include_relative _stu/1155119042.md %}
 {% include_relative _stu/1155110761.md %}  
 {% include_relative _stu/1155110208.md %}  
 {% include_relative _stu/1155108651.md %}  
 {% include_relative _stu/1155107885.md %}  
 {% include_relative _stu/1155115789.md %}  
 {% include_relative _stu/1155104019.md %}  
-{% include_relative _stu/1155115792.md %} 
-{% include_relative _stu/1155108651.md %} 
-{% include_relative _stu/1155107885.md %} 
-{% include_relative _stu/1155115789.md %} 
-{% include_relative _stu/1155098386.md %} 
-{% include_realtive _stu/1155109788.md %} 
-
-
-
+{% include_relative _stu/1155115792.md %}  
+{% include_relative _stu/1155108651.md %}  
+{% include_relative _stu/1155107885.md %}  
+{% include_relative _stu/1155115789.md %}  
+{% include_relative _stu/1155098386.md %}  
+{% include_realtive _stu/1155109788.md %}  
 
 Last update: {{ site.time }}
 

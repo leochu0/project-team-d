@@ -1,7 +1,7 @@
 # Introduction
+Hey, we are Team-D, and this is our blog.
 
-    Our team now follow the tasks inside /issues, below is the check list of our work.
-
+Our team now follow the tasks inside /issues, below is the check list of our work.
 - [x] Task 1 - Set up &nbsp; readme.md
 - [ ] Task 2 - Include data into readme
 - [ ] Task 3 - Project board

@@ -8,7 +8,7 @@ Our team now follow the tasks inside /issues, below is the check list of our wor
 - [X] Task 2 - Include data into readme
 - [X] Task 3 - Project board
 - [X] Task 4 - Write C code
-- [ ] Task 5 - Promote your repo
+- [X] Task 5 - Promote your repo
 
 # Code
 ```c
